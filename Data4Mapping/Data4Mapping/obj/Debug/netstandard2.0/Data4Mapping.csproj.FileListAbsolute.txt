@@ -1,8 +1,0 @@
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\obj\Debug\netstandard2.0\Data4Mapping.csproj.CoreCompileInputs.cache
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\obj\Debug\netstandard2.0\Data4Mapping.AssemblyInfoInputs.cache
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\obj\Debug\netstandard2.0\Data4Mapping.AssemblyInfo.cs
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\bin\Debug\netstandard2.0\Data4Mapping.deps.json
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\bin\Debug\netstandard2.0\Data4Mapping.dll
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\bin\Debug\netstandard2.0\Data4Mapping.pdb
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\obj\Debug\netstandard2.0\Data4Mapping.dll
-D:\mywork\data4mapping\Data4Mapping\Data4Mapping\obj\Debug\netstandard2.0\Data4Mapping.pdb
